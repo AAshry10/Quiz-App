@@ -52,7 +52,7 @@ Notes:
   This project does not use React Portals.
 
 
-[![Live Demo](https://img.shields.io/badge/Click%20Here%20to%20Try-805AD5?style=for-the-badge&logo=google-chrome)](https://quiz-app-gamma-roan.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-805AD5?style=for-the-badge&logo=google-chrome)](https://quiz-app-gamma-roan.vercel.app/)
 
 ---
 
@@ -87,7 +87,7 @@ Notes:
 2. **Navigate to the project directory (If not already navigated):**
 
     ```sh
-     cd Quiz App
+     cd Quiz-App
     ```
 
 3. **Install the dependencies:**

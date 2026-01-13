@@ -45,13 +45,6 @@ This app lets you take a short React quiz:
 - If time runs out, the question is marked as skipped
 - At the end, you get a summary of your performance + a review of each question
 
-Notes:
-
-- Data is stored in memory (React state) — refreshing the page resets progress.
-- Answer order is shuffled once per question using a React ref (useRef) so it doesn’t reshuffle on every render.
-  This project does not use React Portals.
-
-
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-805AD5?style=for-the-badge&logo=google-chrome)](https://quiz-app-gamma-roan.vercel.app/)
 
 ---

@@ -81,13 +81,13 @@ Notes:
 1. **Clone the repository:**
 
     ```sh
-     git clone https://github.com/AAshry10/Project-Management-App.git
+     git clone https://github.com/AAshry10/Quiz-App.git
     ```
 
 2. **Navigate to the project directory (If not already navigated):**
 
     ```sh
-     cd Project-Management-App
+     cd Quiz App
     ```
 
 3. **Install the dependencies:**
